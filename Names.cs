@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Created for mergedLibraryNeo by MMG 2022
 namespace MergedLibraryNeo
 {
     internal class Names //You get a name, you get a name, everybody gets a name!!!
