@@ -12,7 +12,7 @@ namespace MergedLibraryNeo
         {
             for (int i = 0; i < 50; i++)
             { //makes white space to render next frame
-                Console.WriteLine("");
+                Console.Clear();
             }
         }
         public int Question(String question, int lowestAnswer, int highestAnswer)
