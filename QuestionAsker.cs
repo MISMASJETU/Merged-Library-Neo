@@ -10,10 +10,8 @@ namespace MergedLibraryNeo
     {
         public void NewFrame()
         {
-            for (int i = 0; i < 50; i++)
-            { //makes white space to render next frame
-                Console.Clear();
-            }
+            //makes white space to render next frame
+            Console.Clear();
         }
         public int Question(String question, int lowestAnswer, int highestAnswer)
         { //asks player question and makes it so player can never enter bad input and crash the game
